@@ -10,5 +10,5 @@ Previously, I held the position of Subject Matter Expert at Cognizant - a specia
 
 :white_check_mark: Check out my work portfolio [here](https://rasmat001.github.io/Rasa_Portfolio/).
 
-:white_check_mark: Check out my Tableau Public dashboards [here](https://public.tableau.com/app/profile/rasa.matuliauskaite)
+:white_check_mark: Check out my Tableau Public dashboards [here](https://public.tableau.com/app/profile/rasa.matuliauskaite).
 
